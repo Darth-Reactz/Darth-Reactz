@@ -24,6 +24,10 @@
 
 ###
 
+<p align="left">Credentials<br>-   CASP+<br>-   CCNA<br>-   Sec+<br>-   Bachelors Degree in Cybersecurity<br><br>Studying for:<br><br>- PJPT</p>
+
+###
+
 <h3 align="left">🛠 Areas of Knowledge</h3>
 
 ###
